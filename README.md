@@ -2,13 +2,6 @@
 
 This project applies machine learning techniques using Apache Spark MLlib to predict high school students' academic performance. Specifically, we build a regression model to predict GPA (Grade Point Average) based on a variety of demographic, academic, and behavioral features from the High School Student Performance dataset.
 
-## Author
-
-- Emmanuel De Vera
-- Student ID: 300602434 Deveremma
-- Course: AIML427 (Fourth Year)
-
-
 ## Required files 
 
 * Python program: `student.py` 
@@ -102,3 +95,7 @@ spark-submit student.py --dataset input/student.csv --seed 42 --mode 1
 ```bash
 spark-submit student.py
 ```
+
+## Author
+
+- Emmanuel De Vera
